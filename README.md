@@ -1,8 +1,10 @@
 # cloud-MongoDB
-# 1ro chmod u+r+x deploy.sh
-# 2do ./deploy.sh
+* step cd  ./postgres.com
 
-# 3ro 
+* 1ro sudo chmod u+r+x deploy.sh
+* 2do sudo ./deploy.sh
+
+* 3ro 
 sudo ufw enable
 sudo ufw app list
 sudo ufw allow 'OpenSSH'
