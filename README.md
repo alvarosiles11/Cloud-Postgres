@@ -1,6 +1,15 @@
 # cloud-MongoDB
 * step cd  ./postgres.com
 
+* verificar docker
+
+sudo apt-get update
+sudo apt install docker.io
+sudo apt  install docker-compose
+sudo docker -v
+sudo docker-compose -v
+
+
 * 1ro sudo chmod u+r+x deploy.sh
 * 2do sudo ./deploy.sh
 
