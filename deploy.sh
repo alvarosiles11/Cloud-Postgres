@@ -16,6 +16,6 @@ sudo ufw allow 'OpenSSH'
 sudo ufw allow 5432
 sudo ufw status
 
-docker-compose down
-docker-compose build
-docker-compose up
+sudo docker-compose down
+sudo docker-compose build
+sudo docker-compose up
