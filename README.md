@@ -18,4 +18,5 @@ sudo ufw enable
 sudo ufw app list
 sudo ufw allow 'OpenSSH'
 sudo ufw allow 5432
+<!-- si -->
 sudo ufw status
